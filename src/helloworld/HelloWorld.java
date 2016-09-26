@@ -17,6 +17,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Ici on va modifier le premier test");
+        System.out.println("Voici une version modifiée par un utilisateur autre");
     }
     
 }
